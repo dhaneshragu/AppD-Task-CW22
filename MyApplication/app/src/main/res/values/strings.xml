@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dhanesh\'s Diary</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="how_are_you_feeling">How are you feeling?</string>
+    <string name="desc">TODO</string>
+    <string name="emote">Emote</string>
+    <string name="pour_your_thoughts">Pour your thoughts</string>
+    <string name="type_it_all">Type it all...</string>
+    <string name="toTodoo">TODO</string>
+    <string name="tododd">TODO</string>
+    <string name="tododdd">TODO</string>
+    <string name="update_your_feelings">Update your feelings</string>
+    <string name="tododddd">TODO</string>
+    <string name="delete">Delete</string>
+</resources>
